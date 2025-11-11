@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Julieta D'AStolfo
+=======
+Modificar el archivo agregando una línea con su nombre "Julieta"
+segunda modificacion
+tercera modificacion
+>>>>>>> b49c2b121e83eff3330057e7d1d6097ae897ff80
